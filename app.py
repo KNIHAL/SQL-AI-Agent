@@ -101,7 +101,7 @@ if st.button("Run Query") and query:
     })
 
 # ------------------ memory UI ------------------
-st.subheader("🧠 Query Memory (last 5)")
+st.subheader("🧠 History")
 
 for item in reversed(st.session_state.history[-5:]):
     st.markdown(f"**Q:** {item['query']}")
