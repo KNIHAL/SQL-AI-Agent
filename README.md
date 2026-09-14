@@ -123,3 +123,9 @@ The application is deployed using Streamlit Cloud and connects securely to Supab
 
 Kumar Nihal
 Generative AI / Agentic AI Engineer
+
+------
+
+### Causly Ecosystem  
+
+This project is part of the Causly Server ecosystem and is intended to evolve with it as the platform develops.  
